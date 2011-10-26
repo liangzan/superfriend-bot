@@ -1,1 +1,1 @@
-app: bin/hubot -a campfire -n SuperBot
+app: bin/hubot -a campfire -n Hubot
